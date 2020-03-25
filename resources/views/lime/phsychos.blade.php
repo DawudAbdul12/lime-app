@@ -16,7 +16,7 @@
 		<div class="col-xl-7 col-lg-9 col-md-10 col-12 mx-auto text-center">
 			<h1 class="mb-2"><strong>Who We Are.</strong></h1>
 			<h6 class="grey-text mb-5"><strong>Creative Digital Agency</strong></h6>
-			<p class="lead grey-text mb-0">We're a small team with a loud mouth and the zeal for story telling in the most unique ways possible. We give brands and businesses the much-needed oomph, to stay on the minds and in the hearts of their customers.</p>
+			<p class="lead grey-text mb-0">We're a young team with a loud mouth and the zeal for story telling in the most unique ways possible. We give brands and businesses the much-needed oomph, to stay on the minds and in the hearts of their customers.</p>
 		</div>
 	</div>
 </div>

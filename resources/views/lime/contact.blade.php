@@ -67,7 +67,7 @@
 	<div class="row">
 		<div class="col-12 text-center">
 			<h3 class="with-border-bottom mb-5"><strong>New Business</strong></h3>
-			<p class="mb-0"><a mailto="work@limexhoney.world">work@limexhoney.world</a></p>
+			<p class="mb-0"><a mailto="info@limexhoney.com">info@limexhoney.com</a></p>
 		</div>
 	</div>
 </div>

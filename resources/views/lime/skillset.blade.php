@@ -71,7 +71,7 @@
 	</div>
 </div>
 
-<div class="container py-80">
+{{-- <div class="container py-80">
 	<div class="row">
 		<div class="col-md-4 col-12 mb-4">
 			<h3><strong>What Clients Are <br> Saying</strong></h3>
@@ -89,7 +89,7 @@
 			<p class="small mb-0">HUDSON PACIFIC PROPERTIES</p>
 		</div>
 	</div>
-</div>
+</div> --}}
 
 <div class="bg-grey py-80">
 	<div class="container text-center">

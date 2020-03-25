@@ -1,10 +1,10 @@
 <footer class="footer py-80">
   <div class="container footer-content">
     <div class="footer-left">
-      <p class="mb-0">1702 Spintex Blvd.</p>
-      <p class="mb-4">Tema, Accra 90404</p>
-      <p class="mb-0">P <a tel="0302 314 1618">0302 314 1618</a></p>
-      <p class="mb-5">P <a tel="0302 345 4567">0302 345 4567</a></p>
+      {{-- <p class="mb-0">1702 Spintex Blvd.</p>
+      <p class="mb-4">Tema, Accra 90404</p> --}}
+      <p class="mb-0">P <a tel="050 497 2569">050 497 2569</a></p>
+      <p class="mb-5">P <a tel="020 909 8272">020 909 8272</a></p>
       <p class="mb-5 socials">
         <a href="" target="new"><i class="ti-facebook"></i></a>
         <a href="" target="new"><i class="ti-twitter"></i></a>

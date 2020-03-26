@@ -6,9 +6,9 @@
       <p class="mb-0">P <a tel="050 497 2569">050 497 2569</a></p>
       <p class="mb-5">P <a tel="020 909 8272">020 909 8272</a></p>
       <p class="mb-5 socials">
-        <a href="" target="new"><i class="ti-facebook"></i></a>
-        <a href="" target="new"><i class="ti-twitter"></i></a>
-        <a href="" target="new"><i class="ti-instagram"></i></a>
+        <a href="https://www.facebook.com/limexhoney/" target="new"><i class="ti-facebook"></i></a>
+        <a href="https://twitter.com/limexhoney" target="new"><i class="ti-twitter"></i></a>
+        <a href="https://instagram.com/limexhoney?igshid=1bii6surn47or" target="new"><i class="ti-instagram"></i></a>
       </p>
     </div>
     <div class="footer-right text-md-right">

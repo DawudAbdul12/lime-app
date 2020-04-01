@@ -17,7 +17,7 @@
         <li><a href="/skillset">SKILLSET</a></li>
         <li><a href="/juice">JUICE</a></li>
         <li><a href="/phsychos">PHSYCHOS</a></li>
-        <li><a href="#">BLOG</a></li>
+        <li><a href="https://medium.com/@limexhoney" new>BLOG</a></li>
         <li><a href="/contact">CONTACT</a></li>
       </ul>
       <form action="" class="mb-4">

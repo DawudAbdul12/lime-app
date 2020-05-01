@@ -28,8 +28,10 @@
 Route::get('/','publicController@index');// index
 Route::get('/index','publicController@index'); // index
 Route::get('/skillset','publicController@skillset'); // skillset
-Route::get('/honeys','publicController@phsychos'); // honeys
+Route::get('/phsychos','publicController@phsychos'); // phsychos
 Route::get('/contact','publicController@contact'); // contact 
+
+Route::get('/honeys','publicController@phsychos'); // honeys
 
 Route::get('/juice','publicController@juice'); // juice 
 Route::get('/juice/{slug}','publicController@juice_category'); // juice/ category

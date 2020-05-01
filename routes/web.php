@@ -28,7 +28,7 @@
 Route::get('/','publicController@index');// index
 Route::get('/index','publicController@index'); // index
 Route::get('/skillset','publicController@skillset'); // skillset
-Route::get('/phsychos','publicController@phsychos'); // phsychos
+Route::get('/honeys','publicController@phsychos'); // honeys
 Route::get('/contact','publicController@contact'); // contact 
 
 Route::get('/juice','publicController@juice'); // juice 

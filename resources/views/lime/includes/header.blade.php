@@ -49,8 +49,8 @@
 						<li class="nav-item <?= $page == 'juice' ? 'active':''; ?>">
 							<a class="nav-link px-3" href="/juice">JUICE</a>
 						</li>
-						<li class="nav-item <?= $page == 'phsychos' ? 'active':''; ?>">
-							<a class="nav-link px-3" href="/phsychos">PHSYCHOS</a>
+						<li class="nav-item <?= $page == 'honeys' ? 'active':''; ?>">
+							<a class="nav-link px-3" href="/honeys">HONEYS</a>
 						</li>
 						<li class="nav-item <?= $page == 'contact' ? 'active':''; ?>">
 							<a class="nav-link px-3" href="/contact">CONTACT</a>

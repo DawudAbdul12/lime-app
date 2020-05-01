@@ -1,7 +1,7 @@
 <?php
 	$title = 'Lime & Honey - About Us';
 	$descr = '';
-	$page = 'phsychos';
+	$page = 'honeys';
 ?>
 
 

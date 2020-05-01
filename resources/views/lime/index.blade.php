@@ -20,9 +20,9 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-xl-7 col-lg-9 col-md-10 col-12 mx-auto text-center">
-				<h2 class="title-text mb-4">We Are Psychos. Creative Phsycos.</h2>
-				<p>We believe story is at the center of everything, the best way to build a connection.</p>
-				<a href=""><span>LEARN MORE</span></a>
+				<h2 class="title-text mb-4">We're A Relentless & Impulsive Bunch.</h2>
+				<p>Creating connections with every story we tell.</p>
+				<a href="/honeys"><span>LEARN MORE</span></a>
 			</div>
 		</div>
 	</div>
@@ -31,7 +31,7 @@
 <div class="container py-80">
 	<div class="row align-items-center">
 		<div class="col-md-6 col-12">
-			<img src="{{ asset('images/1.png')}}" alt="" class="img-fluid">
+			<img src="{{ asset('images/brand.jpeg')}}" alt="" class="img-fluid">
 		</div>
 		<div class="col-xl-5 col-md-6 col-12">
 			<p class="lead mb-4">We break down your scary business ideas into working solutions leaving the best aftertaste in the mouth of your clients.</p>
@@ -46,7 +46,7 @@
 			<img src="{{ asset('images/2.png')}}" alt="" class="img-fluid">
 		</div>
 		<div class="col-xl-7 col-lg-9 col-md-10 col-12 mx-auto text-center">
-			<h2 class="mb-4">We Create Stories Telling Stories.</h2>
+			<h2 class="mb-4">We Create Stories By Telling Stories.</h2>
 			<p class="lead">Crazy runs in our veins and creative juice out our pores. If no one asks who the 'flipping yeck' are they after our touch, we failed - we never.</p>
 		</div>
 	</div>
